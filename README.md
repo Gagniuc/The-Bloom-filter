@@ -25,16 +25,11 @@ class B:
                 return False
         return True
 
-# create a Bloom filter of 
-# size 100 with two hash functions.
-
 b = B(100, [hash, hash])
 
-# add items
 b.a("s1")
 b.a("s2")
 
-# check membership
 print("Is 's1' in the filter?", "s1" in b)
 print("Is 's3' in the filter?", "s3" in b)
 ``` 
