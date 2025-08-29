@@ -1,6 +1,6 @@
 # The Bloom filter
 
-Ex. (20) - <strong>Bloom filter</strong> membership test structure appears here in Python. Though the syntax is Python-specific, the core idea stays identical. This snippet belongs to the set of 127 algorithms in <i>Antivirus Engines: From Methods to Innovations, Design, and Applications</i> (Elsevier Syngress, 2024).
+Ex. (20) - <strong>Bloom filter</strong> membership test structure appears here in Python. Though the syntax is Python-specific, the core idea stays identical. This snippet belongs to the set of 127 algorithms in <i>[Antivirus Engines: From Methods to Innovations, Design, and Applications](https://github.com/Gagniuc/Antivirus-Engines)</i> (Elsevier Syngress, 2024).
 
 ***
 
