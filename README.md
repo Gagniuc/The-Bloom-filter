@@ -45,6 +45,7 @@ Is 's3' in the filter? False
 ## References
 
 - <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656.</i>
+- <i>Gagniuc, P. A., Păvăloiu, I.B., & Dascălu, M.I. (2025). Bloom Filters at Fifty: From Probabilistic Foundations to Modern Engineering and Applications. Algorithms, 18(12), 767.</i>
 
 ***
 
